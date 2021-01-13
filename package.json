@@ -1,0 +1,25 @@
+{
+  "name": "npm-global-path",
+  "version": "1.0.0",
+  "description": "A way to get global npm modules path",
+  "main": "src/index.js",
+  "scripts": {
+    "star": "npm star npm-global-path"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:wing1003/npm-global-path.git"
+  },
+  "keywords": [
+    "npm",
+    "path",
+    "global",
+    "modules"
+  ],
+  "author": "wing1003 <wing4win@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wing1003/npm-global-path/issues"
+  },
+  "homepage": "https://github.com/wing1003/npm-global-path"
+}
